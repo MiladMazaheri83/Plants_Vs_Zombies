@@ -32,6 +32,4 @@ build game with (you should install sfml cpp library before doing this)
 
 ## Contributions
 
-[Milad Mazaheri](https://github.com/MiladMazaheri83)
-<br>
 [im-w](https://github.com/im-w)
